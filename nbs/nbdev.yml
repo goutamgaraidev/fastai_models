@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai_models"
+  site-url: "https://goutamgaraidev.github.io/fastai_models"
+  description: "Some FastAI Models"
+  repo-branch: main
+  repo-url: "https://github.com/goutamgaraidev/fastai_models"
